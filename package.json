@@ -1,0 +1,24 @@
+{
+  "name": "dsa_search_engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "natural": "^8.1.1",
+    "number-to-words": "^1.2.4",
+    "remove-punctuation": "^0.0.4",
+    "stopword": "^3.1.5",
+    "string-similarity": "^4.0.4",
+    "wink-lemmatizer": "^3.0.4",
+    "words-to-numbers": "^1.5.1"
+  }
+}
